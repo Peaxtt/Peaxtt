@@ -12,8 +12,6 @@
   <a href="https://github.com/Peaxtt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<p align="center"><b><a href="https://github.com/Peaxtt/Portfolio">View Full Engineering Portfolio →</a></b></p>
-
 </div>
 
 ---
