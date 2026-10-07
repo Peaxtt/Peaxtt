@@ -10,6 +10,7 @@
 <p align="center">
   <a href="mailto:bhirabhat.klom@mail.kmutt.ac.th"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Peaxtt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/LINE-bhirabhat-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE ID: bhirabhat"/>
 </p>
 
 </div>
@@ -68,4 +69,5 @@ Detailed project roles, hardware work, schematics, field testing, and technical 
 <p align="center">
   <a href="mailto:bhirabhat.klom@mail.kmutt.ac.th"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Peaxtt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/LINE-bhirabhat-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE ID: bhirabhat"/>
 </p>
