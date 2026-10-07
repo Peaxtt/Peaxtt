@@ -66,7 +66,5 @@ Detailed project roles, hardware work, schematics, field testing, and technical 
 
 ### Contact
 
-<p align="center">
-  <b>Email</b> &nbsp; <a href="mailto:bhirabhat.klom@mail.kmutt.ac.th">bhirabhat.klom@mail.kmutt.ac.th</a><br>
-  <b>LINE ID</b> &nbsp; bhirabhat
-</p>
+- **Email:** [bhirabhat.klom@mail.kmutt.ac.th](mailto:bhirabhat.klom@mail.kmutt.ac.th)
+- **LINE ID:** bhirabhat
