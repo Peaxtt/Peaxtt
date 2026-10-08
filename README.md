@@ -48,11 +48,27 @@ Handled mobile-base software integration using ROS 2 and micro-ROS, connecting h
 
 ---
 
+### More Projects & Technical Work
+
+**[Carver — ROS 2 Migration & SLAM / Localization](https://github.com/Peaxtt/Portfolio#carver--ros-2-migration--slam--localization)**<br>
+Integrated a SLAM/localization subsystem using SLAM Toolbox, LiDAR/TF, and ROS 2 configuration, and debugged mapping and localization in Gazebo and RViz (simulation-level work).
+
+**[Peplink — GPS–Odometry Alignment](https://github.com/Peaxtt/Portfolio#peplink--gpsodometry-alignment)**<br>
+Owned the GPS-to-robot-odometry alignment task, covering coordinate conversion, frame alignment, and covariance handling, and tested it with real hardware and data.
+
+**[Squash Ball Hitting Machine](https://github.com/Peaxtt/Portfolio#squash-ball-hitting-machine)**<br>
+Designed 555-timer/PWM control electronics, PCB layouts, motor-control stages, and a custom power supply in EasyEDA, then assembled and tested the electronics.
+
+**[Junior Botball Challenge — Robotics Competition Trainer](https://github.com/Peaxtt/Portfolio#junior-botball-challenge--robotics-competition-trainer)**<br>
+Trained a student robotics team in competition strategy, route planning, mock competitions, and robot debugging; the team received a Gold Award at the JBC Global Final 2026 in Beijing.
+
+---
+
 ### Core Technologies
 
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white) `micro-ROS` ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) `MQTT`<br>
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-C51A4A?style=flat&logo=raspberrypi&logoColor=white) `C / C++` `EasyEDA` `SolidWorks`<br>
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
