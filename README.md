@@ -4,8 +4,8 @@
 
 <h1 align="center">Bhirabhat Klomjit (Pae / PaYae)</h1>
 <h3 align="center">Robotics & Automation Engineering Student</h3>
-<p align="center">Robotics Integration · Industrial Systems · Embedded Control</p>
-<p align="center">FIBO, KMUTT · 3rd Year</p>
+<p align="center">Robotics Integration, Industrial Systems, Embedded Control</p>
+<p align="center">FIBO, KMUTT, 3rd Year</p>
 
 <p align="center">
   <a href="mailto:bhirabhat.klom@mail.kmutt.ac.th"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -68,7 +68,7 @@ Trained a student robotics team in competition strategy, route planning, mock co
 ### Publication
 
 **[AMRF: A Software Architecture for Autonomous Mobile Robot Fleet Management in Warehouse Environments](https://doi.org/10.1145/3816713.3819506)**<br>
-Co-author · IAIT 2026 (14th International Conference on Advances in Information Technology), Bangkok · June 2026
+Co-author, IAIT 2026 (14th International Conference on Advances in Information Technology), Bangkok, June 2026
 
 ---
 
