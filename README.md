@@ -65,6 +65,13 @@ Trained a student robotics team in competition strategy, route planning, mock co
 
 ---
 
+### Publication
+
+**[AMRF: A Software Architecture for Autonomous Mobile Robot Fleet Management in Warehouse Environments](https://doi.org/10.1145/3816713.3819506)**<br>
+Co-author · IAIT 2026 (14th International Conference on Advances in Information Technology), Bangkok · June 2026
+
+---
+
 ### Core Technologies
 
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white) `micro-ROS` ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) `MQTT`<br>
