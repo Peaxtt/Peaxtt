@@ -8,8 +8,9 @@
 <p align="center">FIBO, KMUTT, 3rd Year</p>
 
 <p align="center">
-  <a href="mailto:bhirabhat.klom@mail.kmutt.ac.th"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:bhibhat26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Peaxtt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/bhirabhat-klomjit-6a600b433/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/LINE-bhirabhat-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE ID: bhirabhat"/>
   <img src="https://img.shields.io/badge/Discord-paye__mumu-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: paye_mumu"/>
   <a href="https://fastwork.co/byob/GID231DJiP"><img src="https://img.shields.io/badge/Fastwork-Freelance-1E6FFF?style=for-the-badge" alt="Fastwork"/></a>
@@ -30,16 +31,16 @@ I work across subsystem boundaries, connecting software, ROS 2, data systems, em
 ### Featured Engineering Work
 
 **FIBO — Pile Monitoring & Industrial Station Integration**<br>
-Database/state design and station-side integration for an industrial LiDAR-based pile-monitoring system, including read-only robot-status integration, operator validation tools, deployment, monitoring, and field troubleshooting.
+Pile segmentation and tracking, database/state design, and station-side integration for an industrial LiDAR-based pile-monitoring system, including read-only robot-status integration, operator validation tools, deployment, monitoring, and field troubleshooting.
 
 **Warehouse AMR — Robot Interface Web App & ROS 2 Integration**<br>
 Developed the robot-interface web application and ROS 2 action bridge for manual control, mission workflows, robot state, software safety, and real-robot testing.
 
-**1-DOF Pick-and-Place Arm**<br>
-Designed and built the complete electrical/control system around an STM32G474RE, including EasyEDA schematics, control-box wiring, sensors, safety circuitry, firmware, and hardware debugging.
+**1-DOF Revolute Pick-and-Place Robotic Arm**<br>
+Course project. Designed and built the complete electrical/control system around an STM32G474RE, including EasyEDA schematics, control-box wiring and mounting design in SolidWorks, sensors, safety circuitry, firmware, and hardware debugging.
 
 **ABU Robocon — Meihua**<br>
-Handled mobile-base software integration using ROS 2 and micro-ROS, connecting high- and low-level interfaces and testing/tuning the real robot.
+Integrated mobile-base software using ROS 2 and micro-ROS with the team's low-level interfaces and sensor feedback, and tested the real robot.
 
 <p align="center">
   <img src="assets/station-operations-screen.png" height="150" alt="FIBO station operations screen (read-only validation view)"/>
@@ -53,7 +54,7 @@ Handled mobile-base software integration using ROS 2 and micro-ROS, connecting h
 ### More Projects & Technical Work
 
 **[Carver — ROS 2 Migration & SLAM / Localization](https://github.com/Peaxtt/Portfolio#carver--ros-2-migration--slam--localization)**<br>
-Integrated a SLAM/localization subsystem using SLAM Toolbox, LiDAR/TF, and ROS 2 configuration, and debugged mapping and localization in Gazebo and RViz (simulation-level work).
+Contributed to a SLAM/localization subsystem using SLAM Toolbox, LiDAR/TF, and ROS 2 configuration, and debugged mapping and localization in Gazebo and RViz (simulation-level work).
 
 **[Peplink — GPS–Odometry Alignment](https://github.com/Peaxtt/Portfolio#peplink--gpsodometry-alignment)**<br>
 Owned the GPS-to-robot-odometry alignment task, covering coordinate conversion, frame alignment, and covariance handling, and tested it with real hardware and data.
@@ -62,7 +63,10 @@ Owned the GPS-to-robot-odometry alignment task, covering coordinate conversion, 
 Designed 555-timer/PWM control electronics, PCB layouts, motor-control stages, and a custom power supply in EasyEDA, then assembled and tested the electronics.
 
 **[Junior Botball Challenge — Robotics Competition Trainer](https://github.com/Peaxtt/Portfolio#junior-botball-challenge--robotics-competition-trainer)**<br>
-Trained a student robotics team in competition strategy, route planning, mock competitions, and robot debugging; the team received a Gold Award at the JBC Global Final 2026 in Beijing.
+Through Future Intel Academy (FIA), trained a student robotics team in competition strategy, route planning, mock competitions, and robot debugging; the team received a Gold Award at the JBC Global Final 2026 in Beijing.
+
+**[CodeLab Thailand — Robotics & Programming Instructor (Part-time)](https://github.com/Peaxtt/Portfolio#codelab-thailand--robotics--programming-instructor-part-time)**<br>
+Teach Python, VEX IQ, and MakeX (Open Hardware) classes, including Arduino and RP2040 boards.
 
 ---
 
@@ -91,6 +95,7 @@ Detailed project roles, hardware work, schematics, field testing, and technical 
 
 ### Contact
 
-- **Email:** [bhirabhat.klom@mail.kmutt.ac.th](mailto:bhirabhat.klom@mail.kmutt.ac.th)
+- **Email:** [bhibhat26@gmail.com](mailto:bhibhat26@gmail.com)
+- **LinkedIn:** [bhirabhat-klomjit](https://www.linkedin.com/in/bhirabhat-klomjit-6a600b433/)
 - **LINE ID:** bhirabhat
 - **Discord:** paye_mumu
