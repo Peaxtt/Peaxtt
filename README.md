@@ -12,7 +12,6 @@
   <a href="https://github.com/Peaxtt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/bhirabhat-klomjit-6a600b433/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/LINE-bhirabhat-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE ID: bhirabhat"/>
-  <img src="https://img.shields.io/badge/Discord-paye__mumu-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: paye_mumu"/>
   <a href="https://fastwork.co/byob/GID231DJiP"><img src="https://img.shields.io/badge/Fastwork-Freelance-1E6FFF?style=for-the-badge" alt="Fastwork"/></a>
 </p>
 
@@ -98,4 +97,3 @@ Detailed project roles, hardware work, schematics, field testing, and technical 
 - **Email:** [bhibhat26@gmail.com](mailto:bhibhat26@gmail.com)
 - **LinkedIn:** [bhirabhat-klomjit](https://www.linkedin.com/in/bhirabhat-klomjit-6a600b433/)
 - **LINE ID:** bhirabhat
-- **Discord:** paye_mumu
