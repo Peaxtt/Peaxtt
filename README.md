@@ -61,8 +61,8 @@ Owned the GPS-to-robot-odometry alignment task, covering coordinate conversion, 
 **[Squash Ball Hitting Machine](https://github.com/Peaxtt/Portfolio#squash-ball-hitting-machine)**<br>
 Designed 555-timer/PWM control electronics, PCB layouts, motor-control stages, and a custom power supply in EasyEDA, then assembled and tested the electronics.
 
-**[Junior Botball Challenge — Robotics Competition Trainer](https://github.com/Peaxtt/Portfolio#junior-botball-challenge--robotics-competition-trainer)**<br>
-Through Future Intel Academy (FIA), trained a student robotics team in competition strategy, route planning, mock competitions, and robot debugging; the team received a Gold Award at the JBC Global Final 2026 in Beijing.
+**[Junior Botball Challenge — Robotics Competition Coach](https://github.com/Peaxtt/Portfolio#junior-botball-challenge--robotics-competition-coach)**<br>
+Through Future Intel Academy (FIA), coached two primary-school teams (eight students) in competition strategy, route planning, mock competitions, and robot debugging ahead of the 2026 Junior Botball Challenge Global Finals in Beijing, where both teams earned Gold Awards (Beginner and Rookie).
 
 **[CodeLab Thailand — Robotics & Programming Instructor (Part-time)](https://github.com/Peaxtt/Portfolio#codelab-thailand--robotics--programming-instructor-part-time)**<br>
 Teach Python, VEX IQ, and MakeX (Open Hardware) classes, including Arduino and RP2040 boards.
