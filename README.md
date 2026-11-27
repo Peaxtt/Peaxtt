@@ -61,6 +61,9 @@ Owned the GPS-to-robot-odometry alignment task, covering coordinate conversion, 
 **[Squash Ball Hitting Machine](https://github.com/Peaxtt/Portfolio#squash-ball-hitting-machine)**<br>
 Designed 555-timer/PWM control electronics, PCB layouts, motor-control stages, and a custom power supply in EasyEDA, then assembled and tested the electronics.
 
+**[Robotex International 2026 — LEGO Line Following](https://github.com/Peaxtt/Portfolio#robotex-international-2026--lego-line-following)**<br>
+Through Future Intel Academy (FIA), lead a school team for the competition in Korea, covering LEGO line-following robot design, programming, testing, and student coaching.
+
 **[Junior Botball Challenge — Robotics Competition Coach](https://github.com/Peaxtt/Portfolio#junior-botball-challenge--robotics-competition-coach)**<br>
 Through Future Intel Academy (FIA), coached two primary-school teams (eight students) in competition strategy, route planning, mock competitions, and robot debugging ahead of the 2026 Junior Botball Challenge Global Finals in Beijing, where both teams earned Gold Awards (Beginner and Rookie).
 
